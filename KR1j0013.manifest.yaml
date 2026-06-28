@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR1j0013/v1
+canonical_location: https://kanripo.org/bkk/KR1j0013/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 駢雅
+  date: '2016-04-12 14:30:47.566476'
+  source:
+    repository: kanripo
+    path: KR1j0013
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1j0013_000.yaml, hash: 'sha256:dfb0ba8229e41ee4027dcc489980e7f1f7acb80c55ea6df30276495f2849c85c'}
+  - {seq: 1, filename: KR1j0013_001.yaml, hash: 'sha256:7e4512c94060d8404ba824b5ad40f7676045ca9b64287e303a90027700cc8cd7'}
+  - {seq: 2, filename: KR1j0013_002.yaml, hash: 'sha256:806ce5bfc35cabf4b10e404927388253196376ad83fdb36c8497c4ffef34a391'}
+  - {seq: 3, filename: KR1j0013_003.yaml, hash: 'sha256:b4bcedf40dd049f7e2dcc347a5b36a575085f07b187737417a0f1e84173c0f70'}
+  - {seq: 4, filename: KR1j0013_004.yaml, hash: 'sha256:53f3f40fe30ca763c2ff4b676248d83ac3fadd44cd35778a88ab93ef33fecdb4'}
+  - {seq: 5, filename: KR1j0013_005.yaml, hash: 'sha256:19de4ab3e26efcccad0db6d482dcbc6f55deb6c99a3e4c961f68e85082edf1fb'}
+  - {seq: 6, filename: KR1j0013_006.yaml, hash: 'sha256:2dc3366627c6bf065ebcee39286691c8db631c46adba971b9f5bf75a6edd31d3'}
+  - {seq: 7, filename: KR1j0013_007.yaml, hash: 'sha256:98eaaca4333706d881a9da94c5ad3017453ffd1bb9d1dac69ece5970522d8454'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1j0013_000.markers.yaml, hash: 'sha256:2da4bd9ea9ab9d474f8d1d7939bed293034cb02aa4de59fee52e523b0746020e'}
+  - {seq: 1, role: markers, filename: assets/KR1j0013_001.markers.yaml, hash: 'sha256:eee32808c24070ffcad0a4c4d17024dea776bf3056e9e07ad5140a2a4bcbd98c'}
+  - {seq: 2, role: markers, filename: assets/KR1j0013_002.markers.yaml, hash: 'sha256:11841997a8b2f6f6e0830d98838cb545f00fadbe897fe55dc46e84681402c0e8'}
+  - {seq: 3, role: markers, filename: assets/KR1j0013_003.markers.yaml, hash: 'sha256:ff05b7698857e9f58dab56720d0d4d2bba1fa71d2fadc222cf44d5702a0c745f'}
+  - {seq: 4, role: markers, filename: assets/KR1j0013_004.markers.yaml, hash: 'sha256:05c819e47218b50ef81e97a70edb68649a6e7e22d4584213567af3c820ef2b7f'}
+  - {seq: 5, role: markers, filename: assets/KR1j0013_005.markers.yaml, hash: 'sha256:de5a2187aece72e428957169d1433fed0761a884c6f0d611979adfaafd697970'}
+  - {seq: 6, role: markers, filename: assets/KR1j0013_006.markers.yaml, hash: 'sha256:4f3c98c025b79d30cfd3d5a82baa0b512db407d13492c39bcd0dc6cf18e0ce37'}
+  - {seq: 7, role: markers, filename: assets/KR1j0013_007.markers.yaml, hash: 'sha256:7f881e85fce551ed1e0197f6d8e5297aeaec10135e8af14b40f2cf2325edbe68'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1j0013_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 302
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0013_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2316
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1j0013_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 2237
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1j0013_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 2240
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1j0013_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 1695
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1j0013_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 2337
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1j0013_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 1651
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1j0013_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 3170
+  label: juan 007
+  type: section
+  level: 1
+hash: sha256:5480a76de4302594fb27c2a07832960c42ab49823ff5aefe7d44cdcf3f22f25d
+editions:
+- short: WYG
